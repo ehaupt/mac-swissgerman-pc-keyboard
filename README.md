@@ -5,7 +5,7 @@
 If you would like to use a 105 key Swiss German keyboard on your Mac
 you might want to remap some keys.
 
-This is a keyboard bundle I am using.
+This is the keyboard bundle I am using.
 
 ## How to install
 
