@@ -19,6 +19,8 @@ This is the keyboard bundle I am using.
 
 * Select `Swiss German PC`
 
+* Copy `DefaultKeyBinding.dict` to `~/Library/KeyBindings/DefaultKeyBinding.dict`
+
 ## How to make modifications
 
 I've used [Ukelele](https://software.sil.org/ukelele/) to create the keyboard bundle.
