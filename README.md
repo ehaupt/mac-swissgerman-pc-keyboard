@@ -7,6 +7,9 @@ you might want to remap some keys.
 
 This is the keyboard bundle I am using.
 
+The file `DefaultKeyBinding.dict` provides additional key bindings
+for the `home` and `end` keys.
+
 ## How to install
 
 * Copy `SwissGermanPC.bundle` to `~/Library/Keyboard Layouts`
