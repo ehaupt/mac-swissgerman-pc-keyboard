@@ -1,4 +1,4 @@
-#!/bin/sh
-rm -rf /Users/tzhhaem2/Library/Keyboard\ Layouts/SwissGermanPC.bundle
-cp -Rpv SwissGermanPC.bundle /Users/tzhhaem2/Library/Keyboard\ Layouts/
-touch /Users/tzhhaem2/Library/Keyboard\ Layouts/
+#!/usr/bin/env bash
+rm -rf ~/Library/Keyboard\ Layouts/SwissGermanPC.bundle
+cp -Rpv SwissGermanPC.bundle ~/Library/Keyboard\ Layouts/
+touch ~/Library/Keyboard\ Layouts/
